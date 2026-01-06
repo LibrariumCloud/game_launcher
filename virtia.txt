@@ -1,0 +1,4 @@
+{
+	"game_name": "Virtia",
+	"game_version": "0.0.1_alpha"
+}
