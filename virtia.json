@@ -1,4 +1,6 @@
 {
 	"game_name": "Virtia",
-	"game_version": "0.0.1_alpha"
+	"game_version": "0.0.1_alpha",
+	"game_icon": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/virtia_icon.png",
+	"game_icon_color": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/virtia_icon_color.png"
 }
