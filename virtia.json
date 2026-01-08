@@ -2,5 +2,31 @@
 	"game_name": "Virtia",
 	"game_version": "0.0.1_alpha",
 	"game_icon": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/virtia_icon.png",
-	"game_icon_color": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/virtia_icon_color.png"
+	"game_icon_color": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/virtia_icon_color.png",
+	"game_category": ["survival", "sandbox"],
+	"game_information": "",
+	"game_developer": "Maint",
+	"game_categorys":[
+		{
+			"name": "game",
+			"icon": "GamepadSolid",
+			"panel": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/game_panel.xaml"
+		},
+		{
+			"name": "news",
+			"icon": "NewspaperSolid",
+			"panel": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/news_panel.xaml"
+		},
+		{
+			"name": "reports",
+			"icon": "MessageSolid",
+			"panel": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/reports_panel.xaml"
+		}
+	],
+	"game_repositories":[
+		{
+			"varsion": "0.0.1_alpha",
+			"download_link": ""
+		}
+	]
 }
