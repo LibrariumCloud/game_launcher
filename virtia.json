@@ -10,16 +10,19 @@
 		{
 			"name": "game",
 			"icon": "GamepadSolid",
+			"label": "Игровая информация",
 			"panel": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/game_panel.xaml"
 		},
 		{
 			"name": "news",
 			"icon": "NewspaperSolid",
+			"label": "Новости",
 			"panel": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/news_panel.xaml"
 		},
 		{
 			"name": "reports",
 			"icon": "MessageSolid",
+			"label": "Сообщить о проблеме",
 			"panel": "https://raw.githubusercontent.com/LibrariumCloud/game_launcher/main/virtia/reports_panel.xaml"
 		}
 	],
